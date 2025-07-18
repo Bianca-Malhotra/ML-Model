@@ -1,2 +1,2 @@
 # ML-Model
-#Displays the Salary based on the number of years of work experience
+Displays the salary based on the number of years of work experience
